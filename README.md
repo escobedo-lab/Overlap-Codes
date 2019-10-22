@@ -1,1 +1,1 @@
-# Overlap-Codes
+# Overlap-Codes (GJK)
